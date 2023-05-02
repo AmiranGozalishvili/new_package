@@ -5,4 +5,3 @@ setup(name="package1",
         packages=['.package1'],
         options={"bdist_wheel":{"universal":True}}
     )
-
